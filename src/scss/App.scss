@@ -1,0 +1,63 @@
+// Styles
+// CoreUI Icons Set
+@import '~@coreui/icons/css/coreui-icons.css';
+// Import Flag Icons Set
+@import '~flag-icon-css/css/flag-icon.min.css';
+// Import Font Awesome Icons Set
+@import '~font-awesome/css/font-awesome.min.css';
+// Import Simple Line Icons Set
+@import '~simple-line-icons/css/simple-line-icons.css';
+// Import Main styles for this application
+@import '../scss/style.scss';
+
+body{
+  // background-color: #effcef;
+  background-color: #f4f6f8;
+}
+
+.navbar{
+  background-color: #3f51b5;
+  border: 0px solid;
+  color: white;
+}
+
+.app-header .navbar-toggler-icon{
+  background-color: #3f51b5;
+  border: 0px solid;
+  color: white;
+}
+
+
+.sidebar{
+  background-color: #ffffff;
+  color: #37474f !important;
+}
+
+
+.nav-item{
+  background-color: #00000000;
+  color: #37474f !important;
+}
+
+.card{
+  box-shadow: 0 0 0 1px rgba(63,63,68,0.05), 0 1px 3px 0 rgba(63,63,68,0.15);
+  border-radius: 4px;
+  border: 0px;
+}
+.card-header{
+  font-weight: bold;
+  background-color: #00000000;
+  border: 0px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.bolder{
+  font-weight: bolder;
+}
+
+.clickable{
+  cursor: pointer;
+}
