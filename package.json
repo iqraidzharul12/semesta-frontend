@@ -1,8 +1,6 @@
 {
   "homepage": "/",
-  "name": "react-js-vanilla",
-  "version": "0.1.0",
-  "private": true,
+  "name": "semesta-frontend",
   "dependencies": {
     "@coreui/coreui": "^2.1.12",
     "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.3.1",
